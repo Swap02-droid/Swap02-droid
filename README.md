@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swapnil Pandit
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning ML, DP, 
+- 👀 I’m interested in programing and learning new technologies
+- 🌱 Currently improving my Python skills: NLP, ML and DL.
 
 <!---
 Swap02-droid/Swap02-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
