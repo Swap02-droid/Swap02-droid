@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swapnil Pandit
+- 👋 Hello, I'm Swapnil Pandit!
 - 👀 I’m interested in programing and learning new technologies
 - 🌱 Currently improving my Python skills: NLP, ML and DL.
 
